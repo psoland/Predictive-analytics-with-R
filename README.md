@@ -1,5 +1,6 @@
 # Predictive-analytics-with-R
-Course in predictive analytics at Norwegian School of Economics (NHH)
+Course in predictive analytics at Norwegian School of Economics (NHH).
+
 The code for Project 1 can be found in the appendix in the report while the code for Project 2 is posted as a separate file called *Project2-R-file.R*.
 
 ## Corse description
